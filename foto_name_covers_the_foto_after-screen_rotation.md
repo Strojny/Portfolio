@@ -1,4 +1,4 @@
-00# Exploration Testing 1
+# Exploration Testing 1
 > https://autokult.pl/37430,alfa-romeo-odswieza-giulie-i-stelvio-quadrifoglio-duza-porcja-elektroniki-oraz-szczypta-emocji?wga_sa=article-intext
 
 ## Table of contents
