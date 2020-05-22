@@ -1,5 +1,5 @@
 # Exploration Testing 1
-> https://kup.biletyregionalne.pl/
+> https://www.biletyregionalne.pl
 
 ## Table of contents
 * [General info](#general-info)
@@ -13,19 +13,19 @@
 Exploration testing project created to train testing skills after testing course.
 
 ## Screenshots
-![screenshot3](SCR3.PNG)
+![screenshot2](PolRegio_language_change.PNG)
 
 ## Technologies
 * System: Windows 10 Pro ver. 1903
 * Web Browser: Google Chrome ver. 78.0.3904.108
 
 ## Steps
-* Open site: https://kup.biletyregionalne.pl/
-* Click "biletyregionalne" logo on the top left corner of the site.
+* Open site: https://www.biletyregionalne.pl
+* Click german flag button on the right top corner of the page, to change the language
 
 ## Result
-* New site doesn't open. Instead the site says: "Stacja odjazdu jest wymagana" below the first field.
+* The "Idź do nowego systemu" button does not display properly. 90% of it is cut.
 
 ## Expected result
 * Expected result:
-The main site https://www.biletyregionalne.pl/ opens.
+The whole "Idź do nowego systemu" button, displays properly

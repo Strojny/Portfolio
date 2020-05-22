@@ -13,7 +13,7 @@
 Exploration testing project created to train testing skills after testing course.
 
 ## Screenshots
-![screenshot1](SCR1.PNG)
+![screenshot1](PolRegio_signing_in.PNG)
 
 ## Technologies
 * System: Windows 10 Pro ver. 1903

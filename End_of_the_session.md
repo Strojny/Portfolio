@@ -13,7 +13,7 @@
 Exploration testing project created to train testing skills after testing course.
 
 ## Screenshots
-![screenshot6](SCR6.PNG)
+![screenshot6](End_of_the_session.PNG)
 
 ## Technologies
 * System: Windows 10 Pro ver. 1903

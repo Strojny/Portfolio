@@ -13,7 +13,7 @@
 Exploration testing project created to train testing skills after testing course.
 
 ## Screenshots
-![screenshot5](SCR5.PNG)
+![screenshot4](Numbers_as_credentials.PNG)
 
 ## Technologies
 * System: Windows 10 Pro ver. 1903
@@ -22,14 +22,13 @@ Exploration testing project created to train testing skills after testing course
 ## Steps
 * Open site: https://www.biletylodzkie.pl/
 * Click "Zarejestruj się" button on the bottom right. You will land on the registration site
-* Put a valid user name (e.g. nazwanazwa), set a valid password
-* Clear all the fields, you've just filled
+* Put some numbers in the "Nazwa użytkownika" field
 * Click "Zarejestruj" button on the bottom of the site
 
 ## Result
-* The site shows red crosses signs next to username and passwords fields, but without any word next to it
+* The site says: "Brak nazwy użytkownika." below the first field and shows a red cross sign above
 
 ## Expected result
 * Expected result:
-The site scrolls up to the bottom after clicking "Zarejestruj" button.
-Next to every red cross sign, the site should give an information: "Wymagane!"
+The site scrolls up to the bottom after clicking "Zarejestruj" button with wrong registration details.
+Next to red cross, the site should give an information about the valid characters for the first field
